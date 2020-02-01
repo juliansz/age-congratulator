@@ -3,7 +3,7 @@
 
 A simple but very useful React application that gives you congratulations on your age.
 
-Try it for yourself.
+Try it for yourself: https://juliansz.github.io/age-congratulator/
 
 ### `yarn start`
 

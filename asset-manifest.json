@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/age-congratulator/static/css/main.5c762a8e.chunk.css",
+    "main.js": "/age-congratulator/static/js/main.34d45bb5.chunk.js",
+    "main.js.map": "/age-congratulator/static/js/main.34d45bb5.chunk.js.map",
+    "runtime-main.js": "/age-congratulator/static/js/runtime-main.f1bdc536.js",
+    "runtime-main.js.map": "/age-congratulator/static/js/runtime-main.f1bdc536.js.map",
+    "static/js/2.3b8ce822.chunk.js": "/age-congratulator/static/js/2.3b8ce822.chunk.js",
+    "static/js/2.3b8ce822.chunk.js.map": "/age-congratulator/static/js/2.3b8ce822.chunk.js.map",
+    "index.html": "/age-congratulator/index.html",
+    "precache-manifest.73f49294f448a79070893ed8e097bd18.js": "/age-congratulator/precache-manifest.73f49294f448a79070893ed8e097bd18.js",
+    "service-worker.js": "/age-congratulator/service-worker.js",
+    "static/css/main.5c762a8e.chunk.css.map": "/age-congratulator/static/css/main.5c762a8e.chunk.css.map",
+    "static/js/2.3b8ce822.chunk.js.LICENSE.txt": "/age-congratulator/static/js/2.3b8ce822.chunk.js.LICENSE.txt",
+    "static/media/congrats.gif": "/age-congratulator/static/media/congrats.c222bf9e.gif",
+    "static/media/error.gif": "/age-congratulator/static/media/error.32b00a42.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1bdc536.js",
+    "static/js/2.3b8ce822.chunk.js",
+    "static/css/main.5c762a8e.chunk.css",
+    "static/js/main.34d45bb5.chunk.js"
+  ]
+}

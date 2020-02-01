@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/age-congratulator/precache-manifest.73f49294f448a79070893ed8e097bd18.js"
+  "/age-congratulator/precache-manifest.636bdf75049c6cf2a911ec72d8a95dd1.js"
 );
 
 self.addEventListener('message', (event) => {
